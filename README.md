@@ -37,7 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarisp3260&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="sarisp3260" /></p>
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/3ybWVPbUziyJjiyfvn3ZH9?si=49dd03f98c3d4624)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarisp3260&show_icons=true&theme=tokyonight&locale=en" alt="sarisp3260" /></p>
 
