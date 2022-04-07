@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sara</h1> <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<h1 align="center">Hi <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>, I'm Sara</h1> 
 <h3 align="center">A passionate full stack developer more frontend prefered stack MERN developer from Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarisp3260&label=Stalkeadas&color=a3009e&style=plastic" alt="sarisp3260" /> </p>
